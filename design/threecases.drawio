@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="qXKc6VL1r4Lwe5yJBGjC" name="Page-1">
+        <mxGraphModel dx="1188" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="if r= 4&lt;br&gt;volume = 4/3 * PI * 4 ** 3&lt;br&gt;volume = 268.08" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="324" y="230" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="if r= 6&lt;br&gt;volume = 4/3 * PI * 6 ** 3&lt;br&gt;volume = 904.78" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="324" y="360" width="180" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="if r= 2&lt;br&gt;volume = 4/3 * PI * 2 ** 3&lt;br&gt;volume = 33.51" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="324" y="490" width="180" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
